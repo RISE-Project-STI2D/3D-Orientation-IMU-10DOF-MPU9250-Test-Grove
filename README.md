@@ -27,6 +27,11 @@ I'm using a [IMU 10DOF Grove](http://wiki.seeedstudio.com/Grove-IMU_10DOF_v2.0/)
 Arduino code is located in `IMU_Arduino`.
 The processing project is located in ProcessingIMU3DProject. I used the version 3.3.6 of Processing to make that sketch.
 
+## Processing Libs
+
+I'm using [shapes3d](http://www.lagers.org.uk/s3d4p/index.html) & [g4p_controls](http://www.lagers.org.uk/g4p/).
+Some imports are commented for experiment reasons.
+
 ## remaining problems
 
 As you can see, the orientation is not in relation with the screen, it's sort of inverted
