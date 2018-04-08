@@ -15,7 +15,7 @@ I also forked a sketch from  [https://github.com/kriswiner/MPU9250](https://gith
 I have made some change to the Arduino Sketch:
 
 + In order to receive the orientation & some infos, the arduino board print serial infos.
-+ I made a new var for the informations printing interval. 
++ I've made a new var for the informations printing interval. 
 
 ## Components
 
